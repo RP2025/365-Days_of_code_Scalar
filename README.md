@@ -9,3 +9,4 @@ I will Updating it Everyday with Tweet links!
 | DAY 003  | https://twitter.com/philomath128/status/1653787007230025729  | Python |
 | DAY 004  | https://twitter.com/philomath128/status/1654147316603813890  | JAVA |
 | DAY 005  | https://twitter.com/philomath128/status/1654378369440694274  | C++ |
+| DAY 006  | https://twitter.com/philomath128/status/1654887938331914240  | C++ |
