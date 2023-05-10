@@ -13,5 +13,5 @@ I will Updating it Everyday with Tweet links!
 | DAY 007  | https://twitter.com/philomath128/status/1655148603655208960  | C++ |
 | DAY 008  | https://twitter.com/philomath128/status/1655485039977836545  | C++ |
 | DAY 009  | https://twitter.com/philomath128/status/1655975927514562562  | C++ |
-
+| DAY 010  | https://twitter.com/philomath128/status/1656278105890369537  | C++ |
 
